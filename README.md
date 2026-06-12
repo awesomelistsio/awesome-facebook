@@ -61,6 +61,7 @@ This list is intended for developers, marketers, researchers, and content creato
 - [Hootsuite](https://hootsuite.com/) – Multi-platform social media management tool supporting Facebook.
 - [Buffer](https://buffer.com/) – Social media scheduling and analytics platform.
 - [Zapier Facebook Integrations](https://zapier.com/apps/facebook/integrations) – Automate workflows between Facebook and other services.
+- [CreatorSkills](https://creatorskills.co) – Marketplace of 30+ downloadable AI skills for content creators covering scripting, sponsorship analysis, and audience growth. Works with Claude and ChatGPT.
 
 ## Communities & Forums
 
