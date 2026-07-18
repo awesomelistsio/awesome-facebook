@@ -55,6 +55,7 @@ This list is intended for developers, marketers, researchers, and content creato
 - [Facebook Ads Manager](https://www.facebook.com/adsmanager/) – Manage and analyze Facebook ad campaigns.
 - [Facebook Creative Hub](https://www.facebook.com/ads/creativehub/) – Mock up and preview Facebook ads.
 - [AdEspresso](https://adespresso.com/) – Facebook Ads management and optimization tool.
+- [Facebook Marketing Skills](https://github.com/sergebulaev/facebook-skills) – Open-source Claude Code and Codex skills for Facebook Page posts and audience insights, in your voice, with an AI-tell humanizer. MIT.
 
 ## Third-Party Tools
 
