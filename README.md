@@ -52,6 +52,7 @@ This list is intended for developers, marketers, researchers, and content creato
 
 ## Marketing & Advertising
 
+- [SocialClaw](https://getsocialclaw.com/) – Schedule and publish posts to Facebook Pages and 10 other platforms via dashboard, API, CLI, or MCP.
 - [Facebook Ads Manager](https://www.facebook.com/adsmanager/) – Manage and analyze Facebook ad campaigns.
 - [Facebook Creative Hub](https://www.facebook.com/ads/creativehub/) – Mock up and preview Facebook ads.
 - [AdEspresso](https://adespresso.com/) – Facebook Ads management and optimization tool.
