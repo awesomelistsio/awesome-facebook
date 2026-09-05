@@ -1,4 +1,4 @@
-# Awesome Facebook [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/awesomelistsio/awesome)
+# Awesome Facebook [![Awesome Lists](https://srv-cdn.himpfen.io/badges/awesome-lists/awesomelists-flat.svg)](https://github.com/brandonhimpfen/awesome-lists)
 
 [![GitHub Sponsors](https://srv-cdn.himpfen.io/badges/github/github-flat.svg)](https://github.com/sponsors/awesomelistsio) &nbsp; 
 [![Ko-Fi](https://srv-cdn.himpfen.io/badges/kofi/kofi-flat.svg)](https://ko-fi.com/awesomelists) &nbsp; 
@@ -70,10 +70,10 @@ This list is intended for developers, marketers, researchers, and content creato
 
 ## Related Awesome Lists
 
-- **[Awesome Social Media](https://github.com/awesomelistsio/awesome-social-media)**
-- **[Awesome Digital Marketing](https://github.com/awesomelistsio/awesome-digital-marketing)**
-- **[Awesome OSINT](https://github.com/awesomelistsio/awesome-osint)**
-- **[Awesome Internet Freedom](https://github.com/awesomelistsio/awesome-internet-freedom)**
+- **[Awesome Social Media](https://github.com/brandonhimpfen/awesome-social-media)**
+- **[Awesome Digital Marketing](https://github.com/brandonhimpfen/awesome-digital-marketing)**
+- **[Awesome OSINT](https://github.com/brandonhimpfen/awesome-osint)**
+- **[Awesome Internet Freedom](https://github.com/brandonhimpfen/awesome-internet-freedom)**
   
 ## Contribute
 
